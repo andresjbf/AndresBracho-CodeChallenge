@@ -1,0 +1,5 @@
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\Animals\bin\Debug\Animals.dll
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\Animals\bin\Debug\Animals.pdb
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\Animals\obj\Debug\Animals.dll
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\Animals\obj\Debug\Animals.pdb

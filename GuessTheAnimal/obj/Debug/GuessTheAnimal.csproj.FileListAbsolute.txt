@@ -1,0 +1,8 @@
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\bin\Debug\GuessTheAnimal.exe.config
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\bin\Debug\GuessTheAnimal.exe
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\bin\Debug\GuessTheAnimal.pdb
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\obj\Debug\GuessTheAnimal.csprojResolveAssemblyReference.cache
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\obj\Debug\GuessTheAnimal.exe
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\obj\Debug\GuessTheAnimal.pdb
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\bin\Debug\Animals.dll
+D:\Dropbox\Job Apps\Other\Empired\GuessTheAnimal\GuessTheAnimals\GuessTheAnimal\GuessTheAnimal\bin\Debug\Animals.pdb
